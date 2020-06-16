@@ -1,1 +1,12 @@
 This is an assessment project in spring boot
+The code is sample code for transfer of money between two accounts done within timelines
+
+1)We can also use more loggin and exception handling facility here
+
+2)spring-data-jpa transaction features need to be added
+
+3) Better if we containerise with docker and kubernetes
+
+4)We can use some monitoring tools like actuator or othedr third party tools like redis server
+
+
